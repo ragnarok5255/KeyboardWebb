@@ -1,0 +1,234 @@
+*{
+  margin: 0;
+  float: 0;
+}
+
+#row1
+{
+  height: 20px;
+  width: 97vw;
+  color: white;
+  border-bottom: 10px;
+  border-color: green;
+}
+#row2
+{
+  height: 20px;
+  width: 97vw;
+  color: white;
+}
+#row3
+{
+  height: 20px;
+  width: 97vw;
+  color: white;
+}
+#row4
+{
+  height: 20px;
+  width: 97vw;
+  color: white;
+}
+#row5
+{
+  height: 20px;
+  width: 97vw;
+  color: white;
+}
+#row6
+{
+  height: 20px;
+  width: 97vw;
+  color: white;
+}
+
+.key{
+  margin-left: 2px;
+  float: left;
+  background-color: black;
+  width: 110px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.key2{
+  margin-left: 10px;
+  float: left;
+  background-color: black;
+  width: 110px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.key3{
+  margin-left: 10px;
+  float: left;
+  background-color: black;
+  width: 110px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.key4{
+  margin-left: 10px;
+  float: left;
+  background-color: black;
+  width: 110px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.key5{
+  margin-left: 10px;
+  float: left;
+  background-color: black;
+  width: 110px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.key6{
+  margin-left: 10px;
+  float: left;
+  background-color: black;
+  width: 110px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+
+}
+.Tab{
+  margin-left: 2px;
+  float: left;
+  background-color: black;
+  width: 150px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.Backspace{
+  margin-left: 10px;
+  float: left;
+  background-color: black;
+  width: 235px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.§{
+  margin-left: 2px;
+  float: left;
+  background-color: black;
+  width: 110px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.Capslock{
+  margin-left: 2px;
+  float: left;
+  background-color: black;
+  width: 160px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.Enter{
+  margin-left: 10px;
+  float: left;
+  background-color: black;
+  width: 195px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.Enter2{
+  margin-left: 50px;
+  float: left;
+  background-color: black;
+  width: 145px;
+  height: 60px;
+  margin-right: 2px;
+  margin-top: 0px;
+}
+.shiftleft{
+  margin-left: 2px;
+  float: left;
+  background-color: black;
+  width: 130px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.shiftright{
+  margin-left: 10px;
+  float: left;
+  background-color: black;
+  width: 338px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.Ctrl{
+  margin-left: 2px;
+  float: left;
+  background-color: black;
+  width: 130px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.space{
+  margin-left: 10px;
+  float: left;
+  background-color: black;
+  width: 600px;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.pageup{
+  margin-left: 20px;
+  float: left;
+  background-color: black;
+  width: 130px;
+  height: 30px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.arrowup{
+  margin-left: 20px;
+  float: left;
+  background-color: black;
+  width: 145px;
+  height: 30px;
+  margin-right: 2px;
+  margin-top: 10px;
+}
+.arrowdown{
+  margin-left: 0px;
+  float: right;
+  background-color: black;
+  width: 145px;
+  height: 30px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.arrowright{
+  margin-left: 12px;
+  float: right;
+  background-color: black;
+  width: 130px;
+  height: 30px;
+  margin-right: 95px;
+  margin-top: 10px;
+}
+.arrowleft{
+  margin-left: 12px;
+  float: right;
+  background-color: black;
+  width: 130px;
+  height: 30px;
+  margin-right: 21px;
+  margin-top: 10px;
+}
